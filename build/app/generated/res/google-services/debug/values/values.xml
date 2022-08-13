@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">289789991427-4mj1vdg8j21reg28muhkhq7a46jg0fpb.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">289789991427</string>
+    <string name="google_api_key" translatable="false">AIzaSyCl9acuYqHqkEnWBvFBTPeRW1JtF27g1SI</string>
+    <string name="google_app_id" translatable="false">1:289789991427:android:841a5edeb78e728654cc36</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCl9acuYqHqkEnWBvFBTPeRW1JtF27g1SI</string>
+    <string name="google_storage_bucket" translatable="false">contra-6fe55.appspot.com</string>
+    <string name="project_id" translatable="false">contra-6fe55</string>
+</resources>
